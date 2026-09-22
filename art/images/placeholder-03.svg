@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Art placeholder three">
+  <rect width="400" height="400" fill="#221f1a"/>
+  <rect x="130" y="110" width="140" height="140" fill="none" stroke="#c9a96e" stroke-width="1" opacity="0.5" transform="rotate(45 200 180)"/>
+  <text x="200" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#837c6f">placeholder</text>
+</svg>
